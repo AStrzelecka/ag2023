@@ -1,3 +1,6 @@
-# ag2023
+Hello!
 
-# To jest zmiana
+Development:
+C#
+Python
+
